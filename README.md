@@ -53,4 +53,4 @@ Mastermind is a code-breaking game for two players.  Each guess is made by placi
 <br/>
 <h3><a href="https://revature.com/contact-us/" title="For more info, contact Revature LLC">Revature Housing (microservices application)</a></h3>
 <p>Revature Housing provides scalable services for housing coordinators, providers, and tenants to communicate and access resources more feasibly. Contributed in front end development and testing, consuming tenant services and generating account interfaces under the Agile Scrum methodology. While working on this project, collectively generated a code coverage greater than 80%.</p>
-<a href="https://revature.com/contact-us/" title="Ongoing project. Ocassionally removed from production.">Check it out</a>
+<a href="https://revature.com/contact-us/" title="For more info, contact Revature LLC">Check it out</a>
