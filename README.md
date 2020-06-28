@@ -1,4 +1,4 @@
-# Archived: <a href="https://github.com/redalgorithm">@redalgorithm</a>
+# Archived: <a href="https://github.com/redalgorithm">Old Account</a>
 <br/>
 <h2>C/C++, POSIX, XCode/VS17</h2>
 <h3><a href="https://github.com/redalgorithm/Ultrasonic-Distance-Testing">Ultrasonic Distance Testing with Arduino</a></h3>
