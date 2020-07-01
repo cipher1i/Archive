@@ -16,10 +16,10 @@
 <br/>
 <h2>Artificial Intelligence and Algorithms</h2>
 <h3><a href="https://github.com/redalgorithm/Automatrix/tree/master/Machine%20Learning%20-Esque/8Queens">8 Queens</a></h3>
-<p>A fully automated process that solves the 8 queens problem at an average of 3 iterations for every 100 runs (approx. 1.37s).</p>
+<p>A fully automated process that solves the 8 queens problem at an average of 3 trials for every 100 runs (approx. 1.37s).</p>
 <br/>
 <h3><a href="https://github.com/redalgorithm/Automatrix/tree/master/Machine%20Learning%20-Esque/Knights%20Tour">Knights Tour with Heuristic</a></h3>
-<p>A fully automated process that completes a Knights Tour circuit in under ...</p>
+<p>A fully automated process that completes a Knights Tour circuit in 1 trial.</p>
 <br/>
 <h3><a href="https://github.com/redalgorithm/Automatrix/tree/master/Machine%20Learning%20-Esque/Mastermind%20Board%20Game">Mastermind (board game)</a></h3>
 <p>This program represents a virtual game of mastermind using the XCode IDE in C++.<br/>
