@@ -14,7 +14,7 @@
 --segfault for forcing a segmentation fault<br/>
 --catch for registering a SIGSEGV handler that catches the fault</p>
 <br/>
-<h2>Artificial Intelligence and Algorithms</h2>
+<h2>Artificial Intelligence and Algorithms (C++)</h2>
 <h3><a href="https://github.com/redalgorithm/Automatrix/tree/master/Machine%20Learning%20-Esque/8Queens">8 Queens</a></h3>
 <p>A fully automated process that solves the 8 queens problem at an average of 3 trials for every 100 runs (approx. 1.37s).</p>
 <br/>
